@@ -1,7 +1,7 @@
 # 演習問題５
 
 total_price = 100
-total_price =+ 500
+total_price += 500
 
 
 if total_price > 100
