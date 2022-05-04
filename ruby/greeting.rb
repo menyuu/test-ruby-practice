@@ -11,3 +11,4 @@ end
 puts greeting('Jhon')
 
 
+# returnは省略可。ただし、それが複数ある場合は最後のが実行される。(returnを省略した場合は、def ～ end 処理内の最終結果が戻り値)
